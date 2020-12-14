@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  13 DEC 2020 21:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  14 DEC 2020 11:33
 entering extended mode
 **./Informe2BaseDeDatos.tex
 (Informe2BaseDeDatos.tex
@@ -639,17 +639,17 @@ File: img/casosdeuso/registroagenda.png Graphic file (type png)
 <use img/casosdeuso/registroagenda.png>
 Package pdftex.def Info: img/casosdeuso/registroagenda.png  used on input line 
 373.
-(pdftex.def)             Requested size: 227.62206pt x 113.80911pt.
+(pdftex.def)             Requested size: 256.08153pt x 142.26707pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 381--382
 
  []
 
-<img/arquitectura.jpg, id=113, 687.56876pt x 719.68875pt>
-File: img/arquitectura.jpg Graphic file (type jpg)
-<use img/arquitectura.jpg>
-Package pdftex.def Info: img/arquitectura.jpg  used on input line 385.
-(pdftex.def)             Requested size: 369.88623pt x 227.62561pt.
+<img/arqui.png, id=113, 518.6878pt x 289.83281pt>
+File: img/arqui.png Graphic file (type png)
+<use img/arqui.png>
+Package pdftex.def Info: img/arqui.png  used on input line 385.
+(pdftex.def)             Requested size: 369.9013pt x 227.62096pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 390--391
 
@@ -699,13 +699,13 @@ Overfull \hbox (21.67726pt too wide) in paragraph at lines 545--565
  []
 
 [16 <./img/casosdeuso/registrohistorial.png> <./img/casosdeuso/registroagenda.p
-ng> <./img/arquitectura.jpg>] [17] [18] (Informe2BaseDeDatos.aux
+ng> <./img/arqui.png>] [17] [18] (Informe2BaseDeDatos.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
  4293 strings out of 480257
- 63030 string characters out of 2878097
+ 62988 string characters out of 2878097
  385026 words of memory out of 3000000
  20751 multiletter control sequences out of 15000+200000
  543555 words of font info for 59 fonts, out of 3000000 for 9000
@@ -720,9 +720,9 @@ VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17
 .pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Informe2BaseDeDatos.pdf (20 pages, 1511919 bytes).
+Output written on Informe2BaseDeDatos.pdf (20 pages, 1478766 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
+ 148 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
