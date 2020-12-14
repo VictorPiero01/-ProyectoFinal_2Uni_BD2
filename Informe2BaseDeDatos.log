@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  13 DEC 2020 21:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  13 DEC 2020 21:54
 entering extended mode
 **./Informe2BaseDeDatos.tex
 (Informe2BaseDeDatos.tex
@@ -231,22 +231,22 @@ LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `Informe2BaseDeDatos.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
 
 ("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
 p-pdf.mkii"
@@ -306,55 +306,45 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 <img/uptlogo.jpg, id=1, 580.41844pt x 722.7pt>
 File: img/uptlogo.jpg Graphic file (type jpg)
 <use img/uptlogo.jpg>
-Package pdftex.def Info: img/uptlogo.jpg  used on input line 27.
+Package pdftex.def Info: img/uptlogo.jpg  used on input line 31.
 (pdftex.def)             Requested size: 170.71713pt x 199.16766pt.
 [1
 
 {C:/Users/VICTOR PIERO/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/up
 tlogo.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 65--67
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
@@ -364,12 +354,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--119
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
-[1]
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
@@ -378,7 +368,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--132
 
  []
 
-
+[1]
 Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
@@ -414,79 +404,89 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--146
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 200--202
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--202
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
 <img/OR/mapa.png, id=25, 513.71925pt x 498.663pt>
 File: img/OR/mapa.png Graphic file (type png)
 <use img/OR/mapa.png>
-Package pdftex.def Info: img/OR/mapa.png  used on input line 213.
+Package pdftex.def Info: img/OR/mapa.png  used on input line 217.
 (pdftex.def)             Requested size: 227.62842pt x 227.62247pt.
 <img/OR/primera.png, id=26, 362.85562pt x 432.11438pt>
 File: img/OR/primera.png Graphic file (type png)
 <use img/OR/primera.png>
-Package pdftex.def Info: img/OR/primera.png  used on input line 217.
+Package pdftex.def Info: img/OR/primera.png  used on input line 221.
 (pdftex.def)             Requested size: 227.62578pt x 227.62169pt.
 <img/OR/segunda.png, id=28, 348.55219pt x 341.02406pt>
 File: img/OR/segunda.png Graphic file (type png)
 <use img/OR/segunda.png>
-Package pdftex.def Info: img/OR/segunda.png  used on input line 221.
+Package pdftex.def Info: img/OR/segunda.png  used on input line 225.
 (pdftex.def)             Requested size: 227.61992pt x 227.62633pt.
 <img/OR/tercera.png, id=29, 343.2825pt x 439.6425pt>
 File: img/OR/tercera.png Graphic file (type png)
 <use img/OR/tercera.png>
-Package pdftex.def Info: img/OR/tercera.png  used on input line 225.
+Package pdftex.def Info: img/OR/tercera.png  used on input line 229.
 (pdftex.def)             Requested size: 227.61998pt x 227.61586pt.
 [4 <./img/OR/mapa.png> <./img/OR/primera.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
  []
 
 <img/Migraciones/1webconfig.png, id=34, 782.925pt x 103.88812pt>
 File: img/Migraciones/1webconfig.png Graphic file (type png)
 <use img/Migraciones/1webconfig.png>
-Package pdftex.def Info: img/Migraciones/1webconfig.png  used on input line 236
+Package pdftex.def Info: img/Migraciones/1webconfig.png  used on input line 240
 .
 (pdftex.def)             Requested size: 341.42978pt x 85.36159pt.
 [5 <./img/OR/segunda.png> <./img/OR/tercera.png>]
 <img/Migraciones/2Context.png, id=41, 532.99126pt x 435.12563pt>
 File: img/Migraciones/2Context.png Graphic file (type png)
 <use img/Migraciones/2Context.png>
-Package pdftex.def Info: img/Migraciones/2Context.png  used on input line 241.
+Package pdftex.def Info: img/Migraciones/2Context.png  used on input line 245.
 (pdftex.def)             Requested size: 341.43855pt x 256.09114pt.
 <img/Migraciones/3clases.png, id=42, 189.70876pt x 249.18094pt>
 File: img/Migraciones/3clases.png Graphic file (type png)
 <use img/Migraciones/3clases.png>
-Package pdftex.def Info: img/Migraciones/3clases.png  used on input line 246.
+Package pdftex.def Info: img/Migraciones/3clases.png  used on input line 250.
 (pdftex.def)             Requested size: 142.26672pt x 170.72212pt.
  [6 <./img/Migraciones/1webconfig.png> <./img/Migraciones/2Context.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
 
  []
 
@@ -494,40 +494,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--251
 File: img/Migraciones/4clasemigra.png Graphic file (type png)
 <use img/Migraciones/4clasemigra.png>
 Package pdftex.def Info: img/Migraciones/4clasemigra.png  used on input line 25
-3.
+7.
 (pdftex.def)             Requested size: 341.42911pt x 256.08224pt.
 <img/Migraciones/5clasemigra.png, id=49, 458.46281pt x 360.59718pt>
 File: img/Migraciones/5clasemigra.png Graphic file (type png)
 <use img/Migraciones/5clasemigra.png>
-Package pdftex.def Info: img/Migraciones/5clasemigra.png  used on input line 25
-7.
+Package pdftex.def Info: img/Migraciones/5clasemigra.png  used on input line 26
+1.
 (pdftex.def)             Requested size: 341.44678pt x 256.0753pt.
 [7 <./img/Migraciones/3clases.png> <./img/Migraciones/4clasemigra.png>]
 <img/Migraciones/6clasemigra.png, id=55, 464.4853pt x 359.84438pt>
 File: img/Migraciones/6clasemigra.png Graphic file (type png)
 <use img/Migraciones/6clasemigra.png>
 Package pdftex.def Info: img/Migraciones/6clasemigra.png  used on input line 26
-1.
+5.
 (pdftex.def)             Requested size: 341.43867pt x 256.09528pt.
 <img/Migraciones/7clasemigra.png, id=56, 487.06969pt x 395.22656pt>
 File: img/Migraciones/7clasemigra.png Graphic file (type png)
 <use img/Migraciones/7clasemigra.png>
 Package pdftex.def Info: img/Migraciones/7clasemigra.png  used on input line 26
-5.
+9.
 (pdftex.def)             Requested size: 341.43697pt x 256.07404pt.
 
 [8 <./img/Migraciones/5clasemigra.png> <./img/Migraciones/6clasemigra.png>]
 <img/Migraciones/8clasemigra.png, id=62, 477.28313pt x 382.42876pt>
 File: img/Migraciones/8clasemigra.png Graphic file (type png)
 <use img/Migraciones/8clasemigra.png>
-Package pdftex.def Info: img/Migraciones/8clasemigra.png  used on input line 26
-9.
+Package pdftex.def Info: img/Migraciones/8clasemigra.png  used on input line 27
+3.
 (pdftex.def)             Requested size: 341.42963pt x 256.08588pt.
 <img/Migraciones/9clasemigra.png, id=63, 493.0922pt x 400.49625pt>
 File: img/Migraciones/9clasemigra.png Graphic file (type png)
 <use img/Migraciones/9clasemigra.png>
 Package pdftex.def Info: img/Migraciones/9clasemigra.png  used on input line 27
-3.
+7.
 (pdftex.def)             Requested size: 341.44534pt x 256.0906pt.
 
 [9 <./img/Migraciones/7clasemigra.png> <./img/Migraciones/8clasemigra.png>]
@@ -535,32 +535,32 @@ Package pdftex.def Info: img/Migraciones/9clasemigra.png  used on input line 27
 File: img/Migraciones/10clasemigra.png Graphic file (type png)
 <use img/Migraciones/10clasemigra.png>
 Package pdftex.def Info: img/Migraciones/10clasemigra.png  used on input line 2
-77.
+81.
 (pdftex.def)             Requested size: 341.43544pt x 113.81389pt.
 <img/Migraciones/11configuracion.png, id=70, 558.58687pt x 330.48468pt>
 File: img/Migraciones/11configuracion.png Graphic file (type png)
 <use img/Migraciones/11configuracion.png>
 Package pdftex.def Info: img/Migraciones/11configuracion.png  used on input lin
-e 283.
+e 287.
 (pdftex.def)             Requested size: 341.44493pt x 256.08263pt.
 
 [10 <./img/Migraciones/9clasemigra.png> <./img/Migraciones/10clasemigra.png>]
 <img/Migraciones/12comandos.png, id=76, 319.94531pt x 101.62968pt>
 File: img/Migraciones/12comandos.png Graphic file (type png)
 <use img/Migraciones/12comandos.png>
-Package pdftex.def Info: img/Migraciones/12comandos.png  used on input line 288
+Package pdftex.def Info: img/Migraciones/12comandos.png  used on input line 292
 .
 (pdftex.def)             Requested size: 227.62654pt x 85.36058pt.
 <img/Migraciones/13comandos.png, id=77, 244.66406pt x 77.53969pt>
 File: img/Migraciones/13comandos.png Graphic file (type png)
 <use img/Migraciones/13comandos.png>
-Package pdftex.def Info: img/Migraciones/13comandos.png  used on input line 292
+Package pdftex.def Info: img/Migraciones/13comandos.png  used on input line 296
 .
 (pdftex.def)             Requested size: 227.62854pt x 85.35777pt.
 <img/Migraciones/14datos.png, id=78, 218.31563pt x 226.59656pt>
 File: img/Migraciones/14datos.png Graphic file (type png)
 <use img/Migraciones/14datos.png>
-Package pdftex.def Info: img/Migraciones/14datos.png  used on input line 296.
+Package pdftex.def Info: img/Migraciones/14datos.png  used on input line 300.
 (pdftex.def)             Requested size: 227.62251pt x 284.52774pt.
 
 [11 <./img/Migraciones/11configuracion.png> <./img/Migraciones/12comandos.png> 
@@ -568,81 +568,154 @@ Package pdftex.def Info: img/Migraciones/14datos.png  used on input line 296.
 <img/Migraciones/15consola.png, id=86, 444.15938pt x 121.95563pt>
 File: img/Migraciones/15consola.png Graphic file (type png)
 <use img/Migraciones/15consola.png>
-Package pdftex.def Info: img/Migraciones/15consola.png  used on input line 301.
+Package pdftex.def Info: img/Migraciones/15consola.png  used on input line 305.
 
 (pdftex.def)             Requested size: 227.62297pt x 85.35902pt.
 <img/Migraciones/16view.png, id=87, 197.23688pt x 228.10219pt>
 File: img/Migraciones/16view.png Graphic file (type png)
 <use img/Migraciones/16view.png>
-Package pdftex.def Info: img/Migraciones/16view.png  used on input line 305.
+Package pdftex.def Info: img/Migraciones/16view.png  used on input line 309.
 (pdftex.def)             Requested size: 227.62418pt x 284.53531pt.
  [12 <./img/Migraciones/14datos.png> <./img/Migraciones/15consola.png>]
 <img/Migraciones/17complet.png, id=93, 237.88875pt x 403.5075pt>
 File: img/Migraciones/17complet.png Graphic file (type png)
 <use img/Migraciones/17complet.png>
-Package pdftex.def Info: img/Migraciones/17complet.png  used on input line 310.
+Package pdftex.def Info: img/Migraciones/17complet.png  used on input line 314.
 
 (pdftex.def)             Requested size: 142.26971pt x 227.62505pt.
  [13 <./img/Migraciones/16view.png> <./img/Migraciones/17complet.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 317--318
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 319
+<img/casosdeuso/registrocliente.png, id=99, 895.09406pt x 396.7322pt>
+File: img/casosdeuso/registrocliente.png Graphic file (type png)
+<use img/casosdeuso/registrocliente.png>
+Package pdftex.def Info: img/casosdeuso/registrocliente.png  used on input line
+ 327.
+(pdftex.def)             Requested size: 227.62451pt x 113.80838pt.
+<img/casosdeuso/registroempleado.png, id=100, 853.68938pt x 371.13657pt>
+File: img/casosdeuso/registroempleado.png Graphic file (type png)
+<use img/casosdeuso/registroempleado.png>
+Package pdftex.def Info: img/casosdeuso/registroempleado.png  used on input lin
+e 333.
+(pdftex.def)             Requested size: 227.6204pt x 113.81093pt.
+<img/casosdeuso/registromascota.png, id=101, 880.79062pt x 344.03531pt>
+File: img/casosdeuso/registromascota.png Graphic file (type png)
+<use img/casosdeuso/registromascota.png>
+Package pdftex.def Info: img/casosdeuso/registromascota.png  used on input line
+ 339.
+(pdftex.def)             Requested size: 227.61586pt x 113.81023pt.
+[14 <./img/casosdeuso/registrocliente.png> <./img/casosdeuso/registroempleado.p
+ng> <./img/casosdeuso/registromascota.png>]
+<img/casosdeuso/registroservicio.png, id=105, 878.53218pt x 338.01282pt>
+File: img/casosdeuso/registroservicio.png Graphic file (type png)
+<use img/casosdeuso/registroservicio.png>
+Package pdftex.def Info: img/casosdeuso/registroservicio.png  used on input lin
+e 345.
+(pdftex.def)             Requested size: 227.62206pt x 113.80878pt.
+<img/casosdeuso/registromantenimiento.png, id=106, 906.38625pt x 328.22626pt>
+File: img/casosdeuso/registromantenimiento.png Graphic file (type png)
+<use img/casosdeuso/registromantenimiento.png>
+Package pdftex.def Info: img/casosdeuso/registromantenimiento.png  used on inpu
+t line 351.
+(pdftex.def)             Requested size: 227.61945pt x 113.80913pt.
+<img/casosdeuso/registrotratamiento.png, id=107, 815.29594pt x 337.26pt>
+File: img/casosdeuso/registrotratamiento.png Graphic file (type png)
+<use img/casosdeuso/registrotratamiento.png>
+Package pdftex.def Info: img/casosdeuso/registrotratamiento.png  used on input 
+line 358.
+(pdftex.def)             Requested size: 227.62196pt x 113.80746pt.
+ [15 <./img/casosdeuso/registroservicio.png> <./img/casosdeuso/registromantenim
+iento.png> <./img/casosdeuso/registrotratamiento.png>]
+<img/casosdeuso/registrohistorial.png, id=111, 847.66687pt x 372.64218pt>
+File: img/casosdeuso/registrohistorial.png Graphic file (type png)
+<use img/casosdeuso/registrohistorial.png>
+Package pdftex.def Info: img/casosdeuso/registrohistorial.png  used on input li
+ne 366.
+(pdftex.def)             Requested size: 227.61848pt x 113.80637pt.
+<img/casosdeuso/registroagenda.png, id=112, 878.53218pt x 371.88937pt>
+File: img/casosdeuso/registroagenda.png Graphic file (type png)
+<use img/casosdeuso/registroagenda.png>
+Package pdftex.def Info: img/casosdeuso/registroagenda.png  used on input line 
+373.
+(pdftex.def)             Requested size: 227.62206pt x 113.80911pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+
+ []
+
+<img/arquitectura.jpg, id=113, 687.56876pt x 719.68875pt>
+File: img/arquitectura.jpg Graphic file (type jpg)
+<use img/arquitectura.jpg>
+Package pdftex.def Info: img/arquitectura.jpg  used on input line 385.
+(pdftex.def)             Requested size: 369.88623pt x 227.62561pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 396
 .
 
 ("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
 d"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 319
+LaTeX Font Info:    Trying to load font information for U+msb on input line 396
 .
 
 ("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
 d"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (17.96065pt too wide) in paragraph at lines 341--362
+Overfull \hbox (17.96065pt too wide) in paragraph at lines 418--439
 [][]
  []
 
 
-Overfull \hbox (29.51051pt too wide) in paragraph at lines 367--387
+Overfull \hbox (29.51051pt too wide) in paragraph at lines 444--464
 [][] 
  []
 
 
-Overfull \hbox (17.17314pt too wide) in paragraph at lines 394--413
+Overfull \hbox (17.17314pt too wide) in paragraph at lines 471--490
 [][]
  []
 
 
-Overfull \hbox (43.51038pt too wide) in paragraph at lines 418--437
+Overfull \hbox (43.51038pt too wide) in paragraph at lines 495--514
 [][]
  []
 
 
-Overfull \hbox (38.0007pt too wide) in paragraph at lines 443--464
+Overfull \hbox (38.0007pt too wide) in paragraph at lines 520--541
 [][]
  []
 
 
-Overfull \hbox (21.67726pt too wide) in paragraph at lines 468--488
+Overfull \hbox (21.67726pt too wide) in paragraph at lines 545--565
 [][]
  []
 
-[14] [15] (Informe2BaseDeDatos.aux
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--570
+
+ []
+
+[16 <./img/casosdeuso/registrohistorial.png> <./img/casosdeuso/registroagenda.p
+ng> <./img/arquitectura.jpg>] [17] [18] (Informe2BaseDeDatos.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 4238 strings out of 480257
- 61138 string characters out of 2878097
- 382026 words of memory out of 3000000
- 20706 multiletter control sequences out of 15000+200000
+ 4293 strings out of 480257
+ 63030 string characters out of 2878097
+ 385026 words of memory out of 3000000
+ 20751 multiletter control sequences out of 15000+200000
  543555 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,66p,544b,493s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,8n,66p,544b,521s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Progr
@@ -652,9 +725,9 @@ VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17
 .pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Informe2BaseDeDatos.pdf (17 pages, 837921 bytes).
+Output written on Informe2BaseDeDatos.pdf (20 pages, 1511951 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
+ 147 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
